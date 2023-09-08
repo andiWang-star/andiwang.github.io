@@ -1,18 +1,15 @@
-baseURL: 'https://hugo-ladder.pages.dev'
+baseURL: 'https://andiwang.github.io'
 title: LADDER
 theme: hugo-theme-ladder
-license: MIT
-licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://hugo-ladder.pages.dev'
+homepage: 'https://andiwang.github.io'
 defaultContentLanguage: 'en'
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
 hasCJKLanguage: true
 copyright: "2023 GuangzhengLi All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "andi"
 menu:
   main:
     - name: Blog
@@ -62,7 +59,7 @@ params:
       qr: https://storage.guangzhengli.com/images/weixin_sponsors.jpeg
   comments:
     giscus:
-      enable: true
+      enable: false
       repo: guangzhengli/hugo-ladder-exampleSite
       repo_id: R_kgDOHyVOjg
       category: Announcements
